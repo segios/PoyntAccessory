@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!--
+        Microchip and STM32 boards present in early
+        versions of the T25
+    -->
+    <usb-device vendor-id="1240" product-id="516"/>
+    <usb-device vendor-id="1155" product-id="22321"/>
+    <!-- Official Powa T25 -->
+    <usb-device vendor-id="10944" product-id="21541"/>
+</resources>
